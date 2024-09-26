@@ -1,0 +1,31 @@
+body {
+  font-family: 'Montserrat', sans-serif; /* Changed font family */
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0; /* Light gray background */
+  font-size: 15px; /* Default font size */
+}
+
+h1 {
+  font-size: 36px; /* Increased font size for headings */
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.container {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff; /* White background */
+  border: 1px solid #ddd; /* Light gray border */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.image-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.image-container img {
+  width: 200px;
